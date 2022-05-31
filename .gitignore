@@ -1,6 +1,8 @@
-
 venv
+.idea
 .git
+main.exe
+mvtcache
 map-openlayers/dist
 map-openlayers/node_modules
 map-openlayers/.cache

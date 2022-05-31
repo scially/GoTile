@@ -1,0 +1,8 @@
+[Database]
+Driver = "postgres"
+Url = "postgresql://postgres:lanjing123@localhost/gisData?sslmode=disable"
+
+[Server]
+Cache = true
+CacheDir = "./mvtcache"
+Debug = false
