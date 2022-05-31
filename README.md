@@ -1,6 +1,6 @@
 # About Project
 基于 Postgresql 和 Postgis 的矢量瓦片免切片服务器，支持多坐标数据源，支持切片缓存。
-
+![](example/example.gif)
 # How To Run
 ```go
 go run main.go

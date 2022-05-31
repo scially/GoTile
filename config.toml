@@ -1,6 +1,6 @@
 [Database]
 Driver = "postgres"
-Url = "postgresql://postgres:lanjing123@localhost/gisData?sslmode=disable"
+Url = "postgresql://user:password@host/database?sslmode=disable"
 
 [Server]
 Cache = true
